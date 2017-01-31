@@ -11,5 +11,10 @@ package test;
  * @author Bruno_Fronza_Junior
  */
 public class Test2 {
-    
+    public Test2(){
+        
+        System.out.println("aaaa");
+                
+        
+    }
 }
